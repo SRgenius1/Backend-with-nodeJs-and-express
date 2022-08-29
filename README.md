@@ -8,7 +8,7 @@ App with Nodejs and express, using routers, restful API
 The way to install Express is as follows and we do it with NPM
 
 ```jsx
-npm and express
+npm i express
 ```
 
 In order to start a server with Express, the first thing we need is to make a constant requiring Express like this
